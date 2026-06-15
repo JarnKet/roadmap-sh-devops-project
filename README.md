@@ -7,3 +7,4 @@ In this repo it will have these projects:
 ## Beginner Level Projects
 
 1. Log Archive Tool [Project URL](https://roadmap.sh/projects/log-archive-tool)
+2. Server Performance Stats [Project URL](https://roadmap.sh/projects/server-performance-stats)
